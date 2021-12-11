@@ -26,3 +26,10 @@
 - 首次启动显示背景设定（瞎写的）
 - 墙碎裂时粒子效果
 - 玩家可在商人处提升移动速度、防御、减慢饥饿速度，费用随次数递增
+
+
+![1](https://s3.bmp.ovh/imgs/2021/12/34be9bf90b58ce93.png)
+![2](https://s3.bmp.ovh/imgs/2021/12/e0d7e8f5aeaaf120.png)
+![3](https://s3.bmp.ovh/imgs/2021/12/6237635dddb2896e.png)
+![4](https://s3.bmp.ovh/imgs/2021/12/1746a16a2d416cb3.png)
+![5](https://s3.bmp.ovh/imgs/2021/12/963b993fd0dd3861.png)
